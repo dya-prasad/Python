@@ -98,7 +98,8 @@ students={1:{"name":"diya","age":22,"email":"diya@gmail.com"},2:{"Name":"mariyam
 subjects=frozenset([1,2,3,4,5,6,7,8])
 subjects.add(12)
 
-
+name="diya"
+print(name)
 
 
 
